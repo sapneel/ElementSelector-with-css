@@ -1,0 +1,24 @@
+p{
+    background-color: red;
+}
+*{
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid red;
+    text-align: center;
+}
+h1{
+    background-color: yellow;
+}
+#firstH1, #secondH1{
+    background-color: red;
+}
+.h1-class{
+    background-color: red;
+}
+.h1-firstclass{
+    color: white;
+}
+p.center{
+    background-color: orange;
+}
